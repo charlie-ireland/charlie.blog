@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title> Page Title </title>
+<p>Page Title </p>
 </head>
 <body>
 
