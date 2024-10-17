@@ -1,13 +1,11 @@
 # charlie.blog
-<!DOCTYPE html>
 <html>
 <head>
-<p>Testing Testing</p> </p>
+<p>1234</p>
 </head>
 <body>
 
-<h1>My First Heading</h1>
-<p>My first paragraph.</p>
+<h1>October 17thg</h1>
+<p>Blah Blah Blag.</p>
 
-</does this do anything?>
 </html>
